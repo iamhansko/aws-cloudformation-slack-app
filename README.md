@@ -38,6 +38,32 @@ Create AWS CloudFormation Stack within Slack (*AWS CloudFormation Stack을 Slack
 <br/>
 
 # Features
+@ (app_mention)
+  - Call a @Slack_App without text
+
+    *텍스트 없이 @Slack_App을 호출*
+
+    - List Stacks in your Default Region
+
+      *기본 리전 내 Stack 나열*
+
+  - Call a @Slack_App & Upload [Template](https://aws.amazon.com/ko/cloudformation/resources/templates/)
+
+    *@Slack_App을 호출하고 [Template](https://aws.amazon.com/ko/cloudformation/resources/templates/) 업로드*
+
+    - Create a Stack in your Default Region
+
+      *기본 리전에 Stack 생성*
+
+View Events (button)
+  - List Events of a Stack you select
+
+    *선택한 Stack의 Event 나열*
+
+Delete (button)
+  - Delete Stack you select
+
+    *선택한 Stack을 제거*
 
 <br/>
 

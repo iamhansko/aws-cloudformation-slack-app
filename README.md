@@ -38,6 +38,9 @@ Create AWS CloudFormation Stack within Slack (*AWS CloudFormation Stack을 Slack
 <br/>
 
 # Features
+
+#### [🇰🇷 Use Guide](https://hyunsuko.notion.site/AWS-CloudFormation-Slack-App-2bceadf7e0454250bdaee753a1cf78f2?pvs=4)
+
 @ (app_mention)
   - Call a @Slack_App without text
 
@@ -68,6 +71,8 @@ Delete (button)
 <br/>
 
 # Installation
+
+#### [🇰🇷 Installation Guide](https://hyunsuko.notion.site/AWS-CloudFormation-Slack-App-2bceadf7e0454250bdaee753a1cf78f2?pvs=4)
 
 - Lambda Functions and S3 Buckets are needed to deploy a Slack App.
   
